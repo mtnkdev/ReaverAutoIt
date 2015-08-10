@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 import logging
-
 import netifaces
+import os
+import sys
 
 
 logging.getLogger("scapy.runtime").setLevel(logging.ERROR)
