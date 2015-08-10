@@ -10,7 +10,7 @@ ReaverAutoIt is a script designed in python 2.7 for automation of WPA/WPA2 Wirel
 * [scapy] - Powerful interactive packet manipulation utility
 * [netifaces] - Interface information gathering utility
 
-These may be install via the Python pip Utility. (Eg: pip install <package>)
+These may be install via the Python pip Utility. (Eg: pip install [package])
 
 ### How to Execute
 
